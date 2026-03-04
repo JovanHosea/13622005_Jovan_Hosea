@@ -1,10 +1,9 @@
-# Modul Praktikum 3
+// Modul Praktikum 3
 
-## 1. Latihan Praktik 1: Dasar Pembuatan Class dan Object
+// 1. Latihan Praktik 1: Dasar Pembuatan Class dan Object
 
-Berikut merupakan kode hasil dari quest Intruksi Eksplorasi: 
+// Berikut merupakan kode hasil dari quest Intruksi Eksplorasi: 
 
-```cpp
 #include <iostream>
 #include <string>
 
@@ -46,4 +45,3 @@ int main() {
 
     return 0; 
 }
-'''
