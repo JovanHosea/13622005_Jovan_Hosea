@@ -14,3 +14,5 @@ int main() {
  
     return 0;  
 }
+
+// Hasil Perhitungan menjadi kacau akibat loop hanya menjumlahkan pada nilai 1 data input saja, yaitu 10 namun sebanyak jumlah data (4 kali)
